@@ -2,4 +2,4 @@ Started new work on file 3
 
 started component 1
 
-Started component 2
+started component 2
